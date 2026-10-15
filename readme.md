@@ -2,10 +2,7 @@
 ### Junior Front-End Developer | IT Student @ BEU | DevJoint Alumnus
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-reshadmammedov-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reshadmammedov)
-[![GitHub](https://img.shields.io/badge/GitHub-resad505-181717?style=for-the-badge&logo=github)](https://github.com/resad505)
 [![Email](https://img.shields.io/badge/Email-resadmammedov%40proton.me-purple?style=for-the-badge&logo=protonmail)](mailto:resadmammedov@proton.me)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-reshadmammedov.dev-06b6d4?style=for-the-badge&logo=html5)](./index.html)
-
 ---
 
 ## 🚀 About Me
