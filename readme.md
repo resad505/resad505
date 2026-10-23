@@ -3,8 +3,8 @@
 **Junior Front-End Developer | IT Student @ Baku Engineering University | DevJoint Alumnus**
 
 [Portfolio](https://www.google.com/search?q=https://resad505-portfolio.vercel.app)
-[](https://www.linkedin.com/in/reshadmammedov)
-[](mailto:resadmammedov@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshadmammedov)
+[![Email](https://img.shields.io/badge/Email-resadmammedov@proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:resadmammedov@proton.me)
 
 ## 🚀 About Me
 
