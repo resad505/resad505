@@ -2,7 +2,6 @@
 
 **Junior Front-End Developer | IT Student @ Baku Engineering University | DevJoint Alumnus**
 
-[Portfolio](https://www.google.com/search?q=https://resad505-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshadmammedov)
 [![Email](https://img.shields.io/badge/Email-resadmammedov@proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:resadmammedov@proton.me)
 
@@ -32,8 +31,6 @@ Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, ac
 | **[AZE Shop](https://github.com/resad505/aze-shop)** | [Live Demo](https://aze-shop-az.vercel.app) | HTML5, CSS3 | Multi-page e-commerce storefront featuring product catalog and contact views |
 | **[Whitepace SaaS Landing Page](https://github.com/resad505/whitepace-saas-landing-page)** | [Live Demo](https://whitepace-saas-landing-page.vercel.app) | HTML5, CSS3 | Responsive multi-section SaaS landing page built from design specifications |
 | **[Newsletter Sign-Up](https://github.com/resad505/newsletter-sign-up)** | [Live Demo](https://newsletter-sign-up-pi-umber.vercel.app) | JavaScript, HTML5, CSS3 | Interactive subscription form with client-side email validation and feedback states |
-| **[Personal Portfolio](https://github.com/resad505/my-portfolio)** | [Live Demo](https://resad505-portfolio.vercel.app) | HTML5, CSS3 | Personal developer portfolio showcasing frontend projects and UI components |
-
 ## 💼 Experience
 
 ### **Frontend Development Intern (Remote)** — *DevJoint* `(July 2026 – August 2026)`
