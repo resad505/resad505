@@ -27,12 +27,12 @@ Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, ac
 
 | Project | Live Demo | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **[IP Address Tracker](https://github.com/resad505/ip-address-tracker)** | [Live Demo](https://www.google.com/search?q=https://ip-address-tracker-theta-ashy.vercel.app) | JavaScript, REST API, CSS3 | Real-time IP and domain geolocation lookup with interactive map rendering |
-| **[Todo App](https://github.com/resad505/todo-app)** | [Live Demo](https://www.google.com/search?q=https://todoapp-lilac-nu.vercel.app) | JavaScript (ES6+), Tailwind CSS | Dynamic task management with state filtering and responsive layout |
-| **[AZE Shop](https://github.com/resad505/aze-shop)** | [Live Demo](https://www.google.com/search?q=https://aze-shop-az.vercel.app) | HTML5, CSS3 | Multi-page e-commerce storefront featuring product catalog and contact views |
-| **[Whitepace SaaS Landing Page](https://github.com/resad505/whitepace-saas-landing-page)** | [Live Demo](https://www.google.com/search?q=https://whitepace-saas-landing-page.vercel.app) | HTML5, CSS3 | Responsive multi-section SaaS landing page built from design specifications |
-| **[Newsletter Sign-Up](https://github.com/resad505/newsletter-sign-up)** | [Live Demo](https://www.google.com/search?q=https://newsletter-sign-up-pi-umber.vercel.app) | JavaScript, HTML5, CSS3 | Interactive subscription form with client-side email validation and feedback states |
-| **[Personal Portfolio](https://github.com/resad505/my-portfolio)** | [Live Demo](https://www.google.com/search?q=https://resad505-portfolio.vercel.app) | HTML5, CSS3 | Personal developer portfolio showcasing frontend projects and UI components |
+| **[IP Address Tracker](https://github.com/resad505/ip-address-tracker)** | [Live Demo](https://ip-address-tracker-theta-ashy.vercel.app) | JavaScript, REST API, CSS3 | Real-time IP and domain geolocation lookup with interactive map rendering |
+| **[Todo App](https://github.com/resad505/todo-app)** | [Live Demo](https://todoapp-lilac-nu.vercel.app) | JavaScript (ES6+), Tailwind CSS | Dynamic task management with state filtering and responsive layout |
+| **[AZE Shop](https://github.com/resad505/aze-shop)** | [Live Demo](https://aze-shop-az.vercel.app) | HTML5, CSS3 | Multi-page e-commerce storefront featuring product catalog and contact views |
+| **[Whitepace SaaS Landing Page](https://github.com/resad505/whitepace-saas-landing-page)** | [Live Demo](https://whitepace-saas-landing-page.vercel.app) | HTML5, CSS3 | Responsive multi-section SaaS landing page built from design specifications |
+| **[Newsletter Sign-Up](https://github.com/resad505/newsletter-sign-up)** | [Live Demo](https://newsletter-sign-up-pi-umber.vercel.app) | JavaScript, HTML5, CSS3 | Interactive subscription form with client-side email validation and feedback states |
+| **[Personal Portfolio](https://github.com/resad505/my-portfolio)** | [Live Demo](https://resad505-portfolio.vercel.app) | HTML5, CSS3 | Personal developer portfolio showcasing frontend projects and UI components |
 
 ## 💼 Experience
 
@@ -60,6 +60,6 @@ Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, ac
 
 ## 🌐 Connect With Me
 
-- 🌍 **Portfolio:** [resad505-portfolio.vercel.app](https://www.google.com/search?q=https://resad505-portfolio.vercel.app)
+- 🌍 **Portfolio:** [resad505-portfolio.vercel.app](https://resad505-portfolio.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/reshadmammedov](https://www.linkedin.com/in/reshadmammedov)
 - 📧 **Email:** [resadmammedov@proton.me](mailto:resadmammedov@proton.me)
