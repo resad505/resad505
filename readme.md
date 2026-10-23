@@ -57,6 +57,5 @@ Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, ac
 
 ## 🌐 Connect With Me
 
-- 🌍 **Portfolio:** [resad505-portfolio.vercel.app](https://resad505-portfolio.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/reshadmammedov](https://www.linkedin.com/in/reshadmammedov)
 - 📧 **Email:** [resadmammedov@proton.me](mailto:resadmammedov@proton.me)
