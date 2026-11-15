@@ -2,9 +2,6 @@
 
 **Junior Front-End Developer | IT Student @ Baku Engineering University | DevJoint Alumnus**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshadmammedov)
-[![Email](https://img.shields.io/badge/Email-resadmammedov@proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:resadmammedov@proton.me)
-
 ## 🚀 About Me
 
 Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, accessible, and responsive web interfaces with **HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, and Bootstrap**.
