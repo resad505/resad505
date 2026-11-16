@@ -7,7 +7,6 @@
 Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, accessible, and responsive web interfaces with **HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, and Bootstrap**.
 
 -  **Education:** B.Sc. in Information Technology at **Baku Engineering University (BEU)** `(2025 – 2029)`
--  **Current Training:** Front-End Development Student at **Aliyevspace Academy**
 -  **Internship Graduate:** Completed the 100% Scholarship **DevJoint** Frontend Development Internship `(July – August 2026)` with a verified score of **94.5 / 100**
 
 ##  Tech Stack & Tools
