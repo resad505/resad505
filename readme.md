@@ -23,7 +23,7 @@ Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, ac
 
 | Project | Live Demo | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **[Training Run Monitor](https://github.com/resad505/training-run-monitor)** | - | JavaScript, Vite, Web Workers | Truthful charts with min/max downsampling, explicit NaN handling and tests |
+| **[Training Run Monitor](https://github.com/resad505/training-run-monitor)** |[Live Demo](https://training-run-monitor-one.vercel.app)  | JavaScript, Vite, Web Workers | Truthful charts with min/max downsampling, explicit NaN handling and tests |
 | **[IP Address Tracker](https://github.com/resad505/ip-address-tracker)** | [Live Demo](https://ip-address-tracker-theta-ashy.vercel.app) | JavaScript, REST API, CSS3 | Real-time IP and domain geolocation lookup with interactive map rendering |
 | **[Todo App](https://github.com/resad505/todo-app)** | [Live Demo](https://todoapp-lilac-nu.vercel.app) | JavaScript (ES6+), Tailwind CSS | Dynamic task management with state filtering and responsive layout |
 | **[AZE Shop](https://github.com/resad505/aze-shop)** | [Live Demo](https://aze-shop-az.vercel.app) | HTML5, CSS3 | Multi-page e-commerce storefront featuring product catalog and contact views |
