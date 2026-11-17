@@ -52,8 +52,4 @@ Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, ac
 - **EVS Volunteer** — *Azerbaijan Cup Final* `(2026)`
 - **Volunteer & Mentor** — *BEU THIK (Student Scientific Research Club)* `(2025)`
 
-##  Contact
-
-- Email: YOUR_EMAIL
-- LinkedIn: YOUR_LINKEDIN_URL
 
