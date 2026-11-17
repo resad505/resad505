@@ -7,6 +7,7 @@
 Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, accessible, and responsive web interfaces with **HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, and Bootstrap**.
 
 -  **Education:** B.Sc. in Information Technology at **Baku Engineering University (BEU)** `(2025 – 2029)`
+-  **Current Focus:** Practicing core HTML, CSS and JavaScript (ES6+) through hands-on projects
 -  **Internship Graduate:** Completed the 100% Scholarship **DevJoint** Frontend Development Internship `(July – August 2026)` with a verified score of **94.5 / 100**
 
 ##  Tech Stack & Tools
@@ -22,6 +23,7 @@ Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, ac
 
 | Project | Live Demo | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
+| **[Training Run Monitor](https://github.com/resad505/training-run-monitor)** | - | JavaScript, Vite, Web Workers | Truthful charts with min/max downsampling, explicit NaN handling and tests |
 | **[IP Address Tracker](https://github.com/resad505/ip-address-tracker)** | [Live Demo](https://ip-address-tracker-theta-ashy.vercel.app) | JavaScript, REST API, CSS3 | Real-time IP and domain geolocation lookup with interactive map rendering |
 | **[Todo App](https://github.com/resad505/todo-app)** | [Live Demo](https://todoapp-lilac-nu.vercel.app) | JavaScript (ES6+), Tailwind CSS | Dynamic task management with state filtering and responsive layout |
 | **[AZE Shop](https://github.com/resad505/aze-shop)** | [Live Demo](https://aze-shop-az.vercel.app) | HTML5, CSS3 | Multi-page e-commerce storefront featuring product catalog and contact views |
@@ -49,4 +51,9 @@ Front-End Developer based in **Baku, Azerbaijan**, focused on building clean, ac
 
 - **EVS Volunteer** — *Azerbaijan Cup Final* `(2026)`
 - **Volunteer & Mentor** — *BEU THIK (Student Scientific Research Club)* `(2025)`
+
+##  Contact
+
+- Email: YOUR_EMAIL
+- LinkedIn: YOUR_LINKEDIN_URL
 
